@@ -1,0 +1,4 @@
+Na tych laboratoriach zostało wykonane kodowanie Hamminga a następnie dekodowanie.
+Jeśli S wynosiło 0 podczas dekodowania to znaczyło, że wynik jest poprawny.
+Jeśli S nie wynosiło 0 to znaczy że na danym bicie pojawił się błąd.
+Następnie należy zanegować dany bit aby wynik dekodowania był poprawny.

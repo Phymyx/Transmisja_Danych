@@ -1,0 +1,5 @@
+W tej części laboratoriów należało dokończyć do końca zadania z pdfa czyli 
+zadanie 3. Należało oprogramować funkcję, która zamienia sygnał c(t) uzyskany w 
+demodulatorach ASK, PSK i FSK, na ciąg bitów, który ma się zgadzać z ciągiem bitów
+uzyskanych z początkowego słowa. Następnie ten ciąg bitów zamienić na słowo.
+Po wykonaniu wszystkiego poprawnie powinniśmy zobaczyć słowo wpisane na samym początku.

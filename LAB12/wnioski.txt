@@ -1,0 +1,8 @@
+Na tych laboratoriach zostało wykonane kodowanie Hamminga(15, 11) a następnie dekodowanie.
+W kodowaniu została pobierana paczka 11 bitów z wcześniej wybranego słowa (w moim przypadku 'ab'), 
+która następnie została zakodowana w formie 15 bitowej kodu Hamming.
+Następnie podczas dekodowania należało obliczyć S, które wskazywało na błąd w pozycji.
+Jeśli S wynosiło 0 podczas dekodowania to znaczyło, że wynik jest poprawny.
+Jeśli S nie wynosiło 0 to znaczy że na danym bicie pojawił się błąd.
+Następnie należy zanegować dany bit aby wynik dekodowania był poprawny.
+Do wykorzystania wszystkich operacji macierzowych została użyta biblioteka Egien, która bardzo ułatwiła pracę.

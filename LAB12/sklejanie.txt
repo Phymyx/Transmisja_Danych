@@ -1,0 +1,12 @@
+sklejamy dwie macierze aby uzyskac G
+macierz P i macierz Ik
+
+
+
+
+tam przy dekodowaniu
+c pomnozyć przez h
+
+
+wymusić int przy modulowaniu 
+(int)...
