@@ -1,0 +1,5 @@
+Na podstawie wykonanego ćwiczenia można stwierdzić, że każde zapisane
+słowo można przekształcić na strumień bitowy, dzieki ktoremu uzyskujemy sygnal informacyjny.
+Następnie wykorzystując sygnal informacyjny uzyskaliśmy 3 kluczowania(ASK, PSK, FSK), które
+następnie przepuściliśmy przez DFT aby uzyskać widma amplitudowe, które należalo przedawić w 
+skali decybelowej.

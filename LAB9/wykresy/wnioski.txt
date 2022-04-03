@@ -1,0 +1,7 @@
+w obecnym ćwiczeniu demodulowaliśmy sygnały uzyskane na poprzednich laboratioriach,
+czyli ASK, PSK i FSK. Uzyskane wyniki pokrywały się z sygnałem wejściowym przekształconym
+z ciągu bitów, który był wcześniej uzyskany z danego słowa w moim przypadku AKZ.
+Jedynie pojawiają się artefakty w demodulacji FSK, które objawiają się 
+wybiciami do poziomu 1 ale jest to spowodowane wykresem p(t), gdzie po każdym skoku 
+dodatnim bądź ujemnym widać że po powrocie do poziomu 0 widać delikatne wybrzuszenie 
+wykresu w kierunku dodatnim co powoduje potem wyżej wspomniane artefakty.
