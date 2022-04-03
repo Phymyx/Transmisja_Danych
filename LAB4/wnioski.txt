@@ -1,0 +1,41 @@
+Patrząc na czasy można stwierdzić, że FFT jest znacznie szybsze niż DFT.
+Czasy przedstawione na zdjęciach w repo zostały zarejestrowane w microsekundach.
+Poniżej przedstawię porównanie czasów w milisekundach w zaokrągleniu do 2 miejsc po przecinku.
+
+Dla X:
+DFT: 5104,55
+FFT: 37,25
+
+dla Y:
+DFT: 4917,58
+FFT: 36,92
+
+dla Z:
+DFT: 5128,45
+FFT: 36,83
+
+dla V:
+DFT: 5352,59
+FFT: 37,62
+
+dla U:
+DFT: 5495,25
+FFT: 39,07
+
+dla BK:
+DFT: 40506,91
+FFT: 126,76
+
+dla BK2:
+DFT: 39701,89
+FFT: 131,53
+
+dla BK3:
+DFT: 39599,46
+FFT: 125,88
+
+czas całkowity:
+DFT: 145815,86
+FFT: 580,59
+
+Czas DFT mógłby być niższy gdyby nie przedstawiać wartości w skali decybelowej.
